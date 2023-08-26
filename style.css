@@ -16,11 +16,11 @@ body {
 .container div {
     padding: 0.3em;
     border-radius: 3px;
-    text-align: center;
     background-color: #482880;
     color: #ffff;
-    font-style: 130%;
+    font-size: 130%;
     font-weight: bold;
+    text-align: center;
 }
 
 .container div:nth-child(odd) {
